@@ -1,0 +1,41 @@
+.nav-style{
+    background-color: #3399cc;
+}
+
+.logo-nav img{
+border-radius: 5px;
+
+}
+
+.carousel-img{
+    max-width: 100%;
+}
+
+input{
+    width: 60%;
+    margin: 1rem!important;
+    
+}
+
+.img-lampara{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+    margin-bottom: 3px;
+
+}
+
+
+
+.contacto-div a{
+    display: inline;
+    width: 30%;
+}
+
+.img-contacto{
+    width: 70px!important;
+    height: 70px;
+    margin-left: 5px;
+}
